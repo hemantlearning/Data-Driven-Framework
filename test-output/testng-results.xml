@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-11T19:24:07 IST" name="Default suite" finished-at="2021-08-11T19:25:08 IST" duration-ms="61320">
+    <groups>
+    </groups>
+    <test started-at="2021-08-11T19:24:07 IST" name="Default test" finished-at="2021-08-11T19:25:08 IST" duration-ms="61320">
+      <class name="Package_TestScripts.TestRegistration_MultipleData">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:Package_TestScripts.TestRegistration_MultipleData@19bb07ed]" started-at="2021-08-11T19:24:07 IST" name="launchApp" finished-at="2021-08-11T19:24:15 IST" duration-ms="7951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="RegistrationDataCheck()[pri:0, instance:Package_TestScripts.TestRegistration_MultipleData@19bb07ed]" started-at="2021-08-11T19:24:15 IST" name="RegistrationDataCheck" finished-at="2021-08-11T19:25:08 IST" duration-ms="52940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationDataCheck -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:Package_TestScripts.TestRegistration_MultipleData@19bb07ed]" started-at="2021-08-11T19:25:08 IST" name="closeApp" finished-at="2021-08-11T19:25:08 IST" duration-ms="371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- Package_TestScripts.TestRegistration_MultipleData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
